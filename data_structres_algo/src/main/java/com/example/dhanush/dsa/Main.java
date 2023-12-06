@@ -7,7 +7,8 @@ public class Main {
         //Queue using linkedList
         // queue.queueimpl();
 
-        Stackdemo.stackDemo();
+        //Stackdemo.stackDemo();
+        ResizingArray.arrayDemo();
 
 
 
