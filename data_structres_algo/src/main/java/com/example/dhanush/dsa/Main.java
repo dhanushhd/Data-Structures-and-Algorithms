@@ -8,7 +8,12 @@ public class Main {
         // queue.queueimpl();
 
         //Stackdemo.stackDemo();
-        ResizingArray.arrayDemo();
+        // ResizingArray.arrayDemo();
+        LinkedListDemo link = new LinkedListDemo();
+        link.addlast("dhanush");
+        link.addlast("diganth");
+        link.addFirst("rekha");
+        link.printlist();
 
 
 
