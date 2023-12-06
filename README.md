@@ -1,2 +1,2 @@
-# Data-Structures-and-Algorithms
+ Data-Structures-and-Algorithms
 Repository to learn Data structures and algorithms 
